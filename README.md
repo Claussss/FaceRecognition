@@ -15,7 +15,7 @@ The program uses Viola-Jones algorithm.
 
 2. Camera view:
 
-![](interface_examples/camera.PNG)
+![](interface_examples/camera2.PNG)
 
 2. Database menu:
 
