@@ -1,5 +1,6 @@
 # FaceRecognition
 My coursework on identifying people by their faces in the input video stream or video file. 
+
 The program uses Viola-Jones algorithm.
 # Algorithm steps:
 1.	Selecting Haar-like features. 
